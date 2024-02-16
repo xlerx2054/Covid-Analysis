@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio-Project
+# Data-Analyst-Project
 # COVID-19 Data Analysis Project
 
 This project focuses on analyzing and visualizing COVID-19 data using SQL queries and Tableau. It includes cleaning data, performing various analyses, and creating visualizations to gain insights into the impact of the pandemic.
